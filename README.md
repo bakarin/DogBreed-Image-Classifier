@@ -13,7 +13,8 @@ The accuracy difference between both approaches is huge:
 The dataset, called ![ImageWoof](https://github.com/fastai/imagenette), is a subset of dog pictures from ImageNet and consists of 10,000 training and 3,000 test data. It contains the dog breeds
 * Australian Terrier
 * Border Terrier
-* Samoyed, Beagle
+* Samoyed
+* Beagle
 * Shih-Tzu
 * English Foxhound
 * Rhodesian Ridgeback
